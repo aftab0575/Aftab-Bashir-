@@ -11,28 +11,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/b0885c98-6e49-4365-93f1-fd2fcaed194c)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&width=435&lines=Hello+Geeks!;I'm+Aftab+Bashir;Let's+Grow+Together;Sophomore;Computer+Science+Student;Python+Enthusiast;Happy+Coding!;I+Know+Nothing;Learning+Never+Stops)](https://git.io/typing-svg)
@@ -59,7 +37,7 @@
 ![](https://komarev.com/ghpvc/?username=aftab0575&color=ff69b4)
 
 
-![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/{aftab0575}/count.svg) 
 
   
 </div>
@@ -112,9 +90,9 @@
 </table>
 
 
- <div align="center">
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aftab0575&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
-</div>
+ 
+  [![Aftab Bashir's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aftab0575&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
+
 
 
   </div>
