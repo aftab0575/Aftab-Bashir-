@@ -56,7 +56,7 @@
   
 <h2>Visitor's Count</h2>
 
-![](https://komarev.com/ghpvc/?username=ctoic&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=aftab0575&color=ff69b4)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{Ctoic}/count.svg) 
@@ -113,7 +113,7 @@
 
 
  <div align="center">
-  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
+  [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aftab0575&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
 </div>
 
 
