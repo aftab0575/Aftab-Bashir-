@@ -141,8 +141,8 @@
     <tr>
       <h2>Top Programming Languages</h2>
       <td align="center">
-        <a href="https://github.com/aftab0575/aftab0575/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
-          <img src="https://github.com/aftab0575/aftab0575/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
+        <a href="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da">
+          <img src="https://github.com/Ctoic/Ctoic/assets/90936436/8f9b03ab-7642-48d9-a75e-f2f3778dd4da" alt="pixel-neon" />
         </a>
       </td>
       <td align="center">
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-<a href="https://app.daily.dev/ctoic"><img src="https://api.daily.dev/devcards/v2/IksW1Yr2Dr3Z9v7uInnka.png?r=wdk&type=wide" width="652" alt="Aftab Bashir's Dev Card"/></a>
+<a href="https://app.daily.dev/aftab0575"><img src="https://api.daily.dev/devcards/v2/IksW1Yr2Dr3Z9v7uInnka.png?r=wdk&type=wide" width="652" alt="Aftab Bashir's Dev Card"/></a>
 </div>
 
 
@@ -170,4 +170,4 @@
 
   
 
-![animated-wave](https://github.com/aftab0575/aftab0575/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
+![animated-wave](https://github.com/Ctoic/Ctoic/assets/90936436/f12da875-8704-4e89-80f8-31c42713adec)
