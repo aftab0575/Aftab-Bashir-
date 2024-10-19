@@ -42,8 +42,8 @@
 
 <h2 align="center"> Hacktoberfest Badges 🏆</h2>
   
-  [![An image of @ctoic's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ctoic)](https://holopin.io/@ctoic)
-  
+[![An image of @aftab0575's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aftab0575)](https://holopin.io/@aftab0575)  
+
 </div>
 
 <br>
