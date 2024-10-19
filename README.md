@@ -98,35 +98,23 @@
 
 </div>
 
-
-
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=ctoic&show_icons=true&theme=radical" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=aftab0575&show_icons=true&theme=radical" alt="GitHub Stats" />
     </td>
     <td align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=ctoic&theme=radical" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=aftab0575&theme=radical" alt="GitHub Streak" />
       </a>
     </td>
   </tr>
 </table>
+
+
  <div align="center">
-
-
-
-
-    
   [![Ctoic's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctoic&theme=rogue)](https://github.com/ctoic/github-readme-activity-graph)
-
-
-
-
-
 </div>
-
-
 
 
   </div>
