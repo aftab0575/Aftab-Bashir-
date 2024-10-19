@@ -68,13 +68,13 @@
 
 <div id="header" align="center">
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aftab-bashir-i190575" target="blank">
+  <a href="https://www.linkedin.com/in/aftab-bashir-i190575" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@Student_Aftab0575/videos" target="blank">
+  <a href="https://www.youtube.com/@Student_Aftab0575/videos" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://www.fiverr.com/aftab0575" target="blank">
+  <a href="https://www.fiverr.com/aftab0575" target="_blank">
     <img src="https://img.shields.io/badge/Fiver-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Fiver Badge"/>
   </a>
 </div>
