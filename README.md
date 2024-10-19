@@ -129,7 +129,7 @@
 </div>
 
   
-  ![borderseparator](https://github.com/aftab0575/aftab0575/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
+  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 
 
@@ -155,8 +155,7 @@
  ![borderseparator](https://github.com/Ctoic/Ctoic/assets/90936436/ff2a1e28-a7ad-448e-a20e-cc3a62715e72)
 
 <div align="center">
-
-<a href="https://app.daily.dev/aftab0575"><img src="https://api.daily.dev/devcards/v2/IksW1Yr2Dr3Z9v7uInnka.png?r=wdk&type=wide" width="652" alt="Aftab Bashir's Dev Card"/></a>
+<a href="https://app.daily.dev/aftab0575"><img src="https://api.daily.dev/devcards/v2/luWxHlmFfKcamkbLTUxc2.png?type=wide&r=ogh" width="652" alt="Aftab Bashir's Dev Card"/></a>
 </div>
 
 
